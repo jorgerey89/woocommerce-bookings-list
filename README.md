@@ -12,4 +12,5 @@ Version: 1.0.0
 - Export of listing with PDF and CSV
 
 # Screenshot
-![alt text](screenshots/filename.png "Description goes here")
+![alt text](screenshots/woocommerce-bookings-list1.jpg "start date with a datepicker.")
+![alt text](screenshots/woocommerce-bookings-list2.jpg "Export of listing with PDF and CSV")
