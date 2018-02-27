@@ -1,4 +1,6 @@
 # Woocommerce Bookings List
-Description: Plugin to get a list of reservations "Woocommerce Bookings" in Wordpress Admin panel
-Author: Jorge Rey
+Plugin to draw a list of reservations by selecting a start date of "Woocommerce Bookings" in the Wordpress Admin Panel
 
+Author: Jorge Rey
+Tags: woocommerce, woocommerce bookings
+Version: 1.0.0
