@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce Bookings List Table\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 16:08+0000\n"
-"PO-Revision-Date: 2018-02-19 16:08+0000\n"
-"Last-Translator: Alhambra Transfer <soporte@woland.es>\n"
+"POT-Creation-Date: 2018-02-27 16:43+0000\n"
+"PO-Revision-Date: 2018-02-27 16:43+0000\n"
+"Last-Translator: ADMIN <soporte@woland.es>\n"
 "Language-Team: Spanish (Spain)\n"
 "Language: es_ES\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
@@ -13,78 +13,75 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/"
 
-#: woocommerce-bookings-list-table.php:33
-#: woocommerce-bookings-list-table.php:59
+#: woocommerce-bookings-list.php:34 woocommerce-bookings-list.php:62
 msgid "Bookings List"
 msgstr "Reservas Lista"
 
-#: woocommerce-bookings-list-table.php:61
+#: woocommerce-bookings-list.php:64
 msgid "Select Date"
 msgstr "Seleccionar fecha"
 
-#: woocommerce-bookings-list-table.php:64
-#: woocommerce-bookings-list-table.php:67
-#: woocommerce-bookings-list-table.php:109
-#: woocommerce-bookings-list-table.php:119
+#: woocommerce-bookings-list.php:67 woocommerce-bookings-list.php:70
+#: woocommerce-bookings-list.php:112 woocommerce-bookings-list.php:122
 msgid "Start Date"
 msgstr "Fecha de inicio"
 
-#: woocommerce-bookings-list-table.php:71
+#: woocommerce-bookings-list.php:74
 msgid "Submit"
 msgstr "Enviar"
 
-#: woocommerce-bookings-list-table.php:95
+#: woocommerce-bookings-list.php:98
 msgid "Result of the date"
 msgstr "Resultado de la fecha"
 
-#: woocommerce-bookings-list-table.php:100
+#: woocommerce-bookings-list.php:103
 msgid "Export in PDF"
 msgstr "Exportar en PDF"
 
-#: woocommerce-bookings-list-table.php:101
+#: woocommerce-bookings-list.php:104
 msgid "Export in CSV"
 msgstr "Exportar en CSV"
 
-#: woocommerce-bookings-list-table.php:105
-#: woocommerce-bookings-list-table.php:115
+#: woocommerce-bookings-list.php:108 woocommerce-bookings-list.php:118
 msgid "ID"
 msgstr "ID"
 
-#: woocommerce-bookings-list-table.php:106
-#: woocommerce-bookings-list-table.php:116
+#: woocommerce-bookings-list.php:109 woocommerce-bookings-list.php:119
 msgid "Booked Product"
 msgstr "Producto reservado"
 
-#: woocommerce-bookings-list-table.php:107
-#: woocommerce-bookings-list-table.php:117
+#: woocommerce-bookings-list.php:110 woocommerce-bookings-list.php:120
 msgid "Booked By"
 msgstr "Reservado por"
 
-#: woocommerce-bookings-list-table.php:108
-#: woocommerce-bookings-list-table.php:118
+#: woocommerce-bookings-list.php:111 woocommerce-bookings-list.php:121
 msgid "Persons"
 msgstr "Personas"
 
-#: woocommerce-bookings-list-table.php:110
-#: woocommerce-bookings-list-table.php:120
+#: woocommerce-bookings-list.php:113 woocommerce-bookings-list.php:123
 msgid "Status"
 msgstr "Estado"
 
-#: woocommerce-bookings-list-table.php:135
+#: woocommerce-bookings-list.php:138
 msgid "Booking"
 msgstr "Reserva"
 
-#: woocommerce-bookings-list-table.php:150
+#: woocommerce-bookings-list.php:153
 msgid "There is no reservation for the selected date."
 msgstr "No hay reserva para la fecha seleccionada."
 
 #. Name of the plugin
-msgid "WooCommerce Bookings List Table"
+msgid "WooCommerce Bookings List"
 msgstr ""
 
 #. Description of the plugin
-msgid "Plugin para sacar un listado de las reservas de Woocoomerce Bookings"
+msgid ""
+"Plugin to draw a list of reservations by selecting a start date of "
+"\"Woocommerce Bookings\" in the Wordpress Admin Panel"
 msgstr ""
+"Plugin para sacar un listado de las reservas seleccionando una fecha de "
+"comienzo de \"Woocommerce Bookings\" en el panel de administración de "
+"Wordpress"
 
 #. URI of the plugin
 #. Author URI of the plugin

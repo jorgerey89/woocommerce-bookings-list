@@ -1,10 +1,11 @@
 <?php
 /*
  * Plugin Name: WooCommerce Bookings List
- * Description: Plugin to get a list of reservations Woocommerce Bookings
+ * Description: Plugin to draw a list of reservations by selecting a start date of "Woocommerce Bookings" in the Wordpress Admin Panel
  * Plugin URI: https://www.woland.es/
  * Author: Jorge Rey
  * Author URI: https://www.woland.es/
+ * Tags: woocommerce, woocommerce bookings
  * Text Domain: woocommerce-bookings-list-table
  * Domain Path: /languages
  * Version: 1.0.0
