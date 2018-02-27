@@ -1,2 +1,2 @@
-# woocommerce-bookings-list
+# Woocommerce Bookings List
 Woocommerce Bookings List
