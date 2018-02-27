@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Bookings List Table\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-19 16:08+0000\n"
+"PO-Revision-Date: 2018-02-19 16:08+0000\n"
+"Last-Translator: Alhambra Transfer <soporte@woland.es>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woocommerce-bookings-list-table.php:33
+#: woocommerce-bookings-list-table.php:59
+msgid "Bookings List"
+msgstr "Reservas Lista"
+
+#: woocommerce-bookings-list-table.php:61
+msgid "Select Date"
+msgstr "Seleccionar fecha"
+
+#: woocommerce-bookings-list-table.php:64
+#: woocommerce-bookings-list-table.php:67
+#: woocommerce-bookings-list-table.php:109
+#: woocommerce-bookings-list-table.php:119
+msgid "Start Date"
+msgstr "Fecha de inicio"
+
+#: woocommerce-bookings-list-table.php:71
+msgid "Submit"
+msgstr "Enviar"
+
+#: woocommerce-bookings-list-table.php:95
+msgid "Result of the date"
+msgstr "Resultado de la fecha"
+
+#: woocommerce-bookings-list-table.php:100
+msgid "Export in PDF"
+msgstr "Exportar en PDF"
+
+#: woocommerce-bookings-list-table.php:101
+msgid "Export in CSV"
+msgstr "Exportar en CSV"
+
+#: woocommerce-bookings-list-table.php:105
+#: woocommerce-bookings-list-table.php:115
+msgid "ID"
+msgstr "ID"
+
+#: woocommerce-bookings-list-table.php:106
+#: woocommerce-bookings-list-table.php:116
+msgid "Booked Product"
+msgstr "Producto reservado"
+
+#: woocommerce-bookings-list-table.php:107
+#: woocommerce-bookings-list-table.php:117
+msgid "Booked By"
+msgstr "Reservado por"
+
+#: woocommerce-bookings-list-table.php:108
+#: woocommerce-bookings-list-table.php:118
+msgid "Persons"
+msgstr "Personas"
+
+#: woocommerce-bookings-list-table.php:110
+#: woocommerce-bookings-list-table.php:120
+msgid "Status"
+msgstr "Estado"
+
+#: woocommerce-bookings-list-table.php:135
+msgid "Booking"
+msgstr "Reserva"
+
+#: woocommerce-bookings-list-table.php:150
+msgid "There is no reservation for the selected date."
+msgstr "No hay reserva para la fecha seleccionada."
+
+#. Name of the plugin
+msgid "WooCommerce Bookings List Table"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin para sacar un listado de las reservas de Woocoomerce Bookings"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.woland.es/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jorge Rey"
+msgstr ""
