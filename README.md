@@ -5,3 +5,7 @@ Author: Jorge Rey<br>
 Author URI: https://www.woland.es/ <br>
 Tags: woocommerce, woocommerce bookings<br>
 Version: 1.0.0
+
+# Details
+- Search for reservations by start date.
+- Export of listing with PDF and CSV
